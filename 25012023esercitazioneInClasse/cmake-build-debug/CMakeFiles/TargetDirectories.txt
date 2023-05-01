@@ -1,0 +1,3 @@
+C:/Users/Andrea/Desktop/cartelle/es_tpsit/25012023esercitazioneInClasse/cmake-build-debug/CMakeFiles/25012023esercitazioneInClasse.dir
+C:/Users/Andrea/Desktop/cartelle/es_tpsit/25012023esercitazioneInClasse/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrea/Desktop/cartelle/es_tpsit/25012023esercitazioneInClasse/cmake-build-debug/CMakeFiles/rebuild_cache.dir

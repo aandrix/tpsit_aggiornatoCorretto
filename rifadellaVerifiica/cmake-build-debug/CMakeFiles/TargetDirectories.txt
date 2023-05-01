@@ -1,0 +1,3 @@
+C:/Users/Andrea/Desktop/cartelle/es_tpsit/rifadellaVerifiica/cmake-build-debug/CMakeFiles/rifadellaVerifiica.dir
+C:/Users/Andrea/Desktop/cartelle/es_tpsit/rifadellaVerifiica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrea/Desktop/cartelle/es_tpsit/rifadellaVerifiica/cmake-build-debug/CMakeFiles/rebuild_cache.dir

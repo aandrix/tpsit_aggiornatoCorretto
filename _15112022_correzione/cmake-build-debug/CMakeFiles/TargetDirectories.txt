@@ -1,0 +1,3 @@
+C:/Users/Andrea/Desktop/cartelle/es_tpsit/_15112022_correzione/cmake-build-debug/CMakeFiles/_15112022_correzione.dir
+C:/Users/Andrea/Desktop/cartelle/es_tpsit/_15112022_correzione/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrea/Desktop/cartelle/es_tpsit/_15112022_correzione/cmake-build-debug/CMakeFiles/rebuild_cache.dir

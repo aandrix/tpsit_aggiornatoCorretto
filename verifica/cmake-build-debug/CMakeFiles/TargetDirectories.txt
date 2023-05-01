@@ -1,0 +1,3 @@
+C:/Users/Andrea/Desktop/cartelle/es_tpsit/verifica/cmake-build-debug/CMakeFiles/verifica.dir
+C:/Users/Andrea/Desktop/cartelle/es_tpsit/verifica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrea/Desktop/cartelle/es_tpsit/verifica/cmake-build-debug/CMakeFiles/rebuild_cache.dir

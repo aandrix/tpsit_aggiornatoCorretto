@@ -1,0 +1,3 @@
+C:/Users/Andrea/Desktop/cartelle/es_tpsit/esincasse16112022/cmake-build-debug/CMakeFiles/esincasse16112022.dir
+C:/Users/Andrea/Desktop/cartelle/es_tpsit/esincasse16112022/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrea/Desktop/cartelle/es_tpsit/esincasse16112022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
