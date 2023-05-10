@@ -1,4 +1,4 @@
-from threading import Thread
+from threading import Thread, Lock
 import random
 
 '''
@@ -21,7 +21,7 @@ prodotto = 0
 
 valoriConsumatore1 = 0
 valoriConsumatore2 = 0
-
+mutex = Lock()
 bufferConsumatori = [0,0]
 
 
@@ -40,11 +40,13 @@ class Consumatore (Thread):
     def run(self):
         global prodotto
         global bufferConsumatori
+        mutex.acquire()
         
         if prodotto >= self.vMin and prodotto <= self.vMax:
             bufferConsumatori[self.pos] += prodotto
             prodotto = 0
         print(f"quantita {self.nome} = {bufferConsumatori[self.pos]}")
+        mutex.release()
         
 
 class Produttore(Thread):
@@ -56,9 +58,14 @@ class Produttore(Thread):
 
     def run(self):
         global prodotto
+
+        
         
         if prodotto == 0:
+            mutex.acquire()
             prodotto = random.randint(self.pMin, self.pMax)
+
+        mutex.release()
 
         
         
